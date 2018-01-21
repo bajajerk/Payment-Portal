@@ -36,6 +36,8 @@ gem 'devise'
 gem 'omniauth-facebook'
 
 gem "figaro"
+gem 'razorpay'
+
 
 
 group :development, :test do
